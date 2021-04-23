@@ -1,2 +1,2 @@
 # SimpleQRCodeScanner
-Add free QR code scanner.
+Ad free QR code scanner.
