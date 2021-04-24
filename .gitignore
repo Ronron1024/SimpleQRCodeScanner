@@ -83,3 +83,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+app/release/
+
+app/src/main/ic_launcher-playstore.png
